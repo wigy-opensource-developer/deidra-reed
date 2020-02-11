@@ -1,1 +1,28 @@
-theme: jekyll-theme-minimal
+author: wigy_opensource_developer
+email: wigy_opensource_developer@yahoo.com
+description: >
+  This site contains the curriculum of a thinker, philosopher and engineer Deidra Reed.
+  Occasional blog posts will update followers on what she is thinking and doing at the moment.
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+remote_theme: thelehhman/texture
+texture:
+  title: Deidre Reed
+  tagline: Code does not grow on Merkle-trees
+  date_format: "%Y-%m-%d"
+  social_links:
+    twitter: IoP_community
+    github:  internet-of-people
+    linkedIn: in/iopglobal
+  style: green
+  showPicker: false
+  showNav: true
+header_pages:
+ - curriculum.md
